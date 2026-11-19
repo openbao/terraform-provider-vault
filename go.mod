@@ -12,7 +12,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.33.18
 	github.com/aws/aws-sdk-go-v2/credentials v1.21.0
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.20.9
-	github.com/aws/aws-sdk-go-v2/service/iam v1.65.0
+	github.com/aws/aws-sdk-go-v2/service/iam v1.66.0
 	github.com/aws/aws-sdk-go-v2/service/sts v1.52.0
 	github.com/aws/smithy-go v1.28.9
 	github.com/cenkalti/backoff/v4 v4.3.0
@@ -51,7 +51,7 @@ require (
 	github.com/jcmturner/gokrb5/v8 v8.4.4
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/mapstructure v1.5.1-0.20231216201459-8508981c8b6c
-	github.com/moby/moby/client v0.6.2
+	github.com/moby/moby/client v0.6.3
 	github.com/spiffe/go-spiffe/v2 v2.9.0
 	github.com/stretchr/testify v1.12.1
 	github.com/tink-crypto/tink-go/v2 v2.9.0
@@ -59,7 +59,7 @@ require (
 	golang.org/x/crypto v0.59.0
 	golang.org/x/net v0.62.0
 	golang.org/x/oauth2 v0.38.0
-	google.golang.org/api v0.314.0
+	google.golang.org/api v0.315.0
 	google.golang.org/genproto v0.0.0-20261012220534-4341edf3f941
 	k8s.io/utils v0.0.0-20260707023825-cf1189d6abe3
 )
@@ -174,7 +174,7 @@ require (
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
 	github.com/moby/docker-image-spec v1.3.1 // indirect
 	github.com/moby/go-archive v0.3.0 // indirect
-	github.com/moby/moby/api v1.56.1 // indirect
+	github.com/moby/moby/api v1.57.0 // indirect
 	github.com/moby/patternmatcher v0.6.1 // indirect
 	github.com/moby/sys/sequential v0.7.0 // indirect
 	github.com/moby/sys/user v0.4.1 // indirect
